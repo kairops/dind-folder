@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Please visit https://github.com/ayudadigital/dind-folder
+
 # DinD folder
 
 Copy any folder of a docker.sock powered container to the host in a temporary directory under /tmp
